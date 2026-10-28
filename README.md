@@ -4,7 +4,8 @@ Automatización de una máquina de taladrado y corte con un **PLC Siemens S7-120
 
 Proyecto académico · Ingeniería Electrónica · UCEVA · 2026
 
-[Arrastra aquí la foto de la HMI]
+<img width="700" alt="HMI de la máquina" src="https://github.com/user-attachments/assets/bc8f0f4d-3a14-42a8-a618-ff876351c784" />
+
 
 ## Qué hace
 
@@ -26,7 +27,8 @@ Desde la pantalla táctil el operador:
 
 ## Tablero de control
 
-[Arrastra aquí la foto del tablero]
+<img width="450" alt="Tablero de control" src="https://github.com/user-attachments/assets/2c8c2abb-6f11-47af-9190-da9f83f9de99" />
+
 
 | Componente | Uso |
 | --- | --- |
